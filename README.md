@@ -9,10 +9,10 @@ import { dtms } from 'dtms'
 dtms('0.2s') // returns 200 (milliseconds)
 dtms('2s') // returns 2000 (milliseconds)
 dtms('0s') // returns 0 (milliseconds)
+dtms('-1s') // returns -1000 may not working with transition
 
 // Not Allowed
 dtms('') // Not alllowed empty string.
-dtms('-1s') // Not alllowed negative.
 dtms('2m') // Only support ms and s from CSS specification
 ```
 
