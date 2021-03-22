@@ -1,7 +1,6 @@
 {
-  "name": "npm-ts-template",
-  "private": true,
-  "version": "0.0.0",
+  "name": "duration-to-number",
+  "version": "1.0.0",
   "description": "A template for typescript-based npm packages",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
@@ -30,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/justintaddei/npm-ts-template.git"
+    "url": "git+https://github.com/changjoo-park/duration-to-number.git"
   },
   "keywords": [],
-  "author": "Justin Taddei <justin@justintaddei.com> (https://justintaddei.com/)",
+  "author": "ChangJoo Park<pcjpcj2@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/justintaddei/npm-ts-template/issues"
+    "url": "https://github.com/changjoo-park/duration-to-number/issues"
   },
-  "homepage": "https://github.com/justintaddei/npm-ts-template#readme",
+  "homepage": "https://github.com/changjoo-park/duration-to-number#readme",
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
     "@commitlint/config-conventional": "^12.0.1",
