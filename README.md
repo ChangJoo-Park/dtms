@@ -1,8 +1,6 @@
 # dtms - CSS d[uration|elay] to milliseconds
 
-<div style="font-family: monospace; font-size: 10rem; text-align: center; padding: 1rem 0; font-weight: bold;">
-  <span style="background-color: #ffb703; color: white; padding: 0 3rem; border-radius: 1rem;">dtms</span>
-</div>
+![dtms](./logo.png)
 
 dtms is `<time>` of CSS parse in to milliseconds for JavaScript.
 
