@@ -2,6 +2,8 @@
 
 <img src="https://i.imgur.com/tClBlEA.png" height="50px" />  
 
+dtms is `<time>` of CSS parse in to milliseconds for JavaScript.
+
 
 ## Install
 
@@ -9,7 +11,7 @@
 yarn add dtms # npm install dtms
 ```
 
-dtms is `<time>` of CSS parse in to milliseconds for JavaScript.
+## Usage
 
 ```js
 import { dtms } from 'dtms'
