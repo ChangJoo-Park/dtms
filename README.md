@@ -1,6 +1,6 @@
 # dtms - CSS d[uration|elay] to milliseconds
 
-<img src="https://i.imgur.com/tClBlEA.png" height="100px" />  
+<img src="https://i.imgur.com/tClBlEA.png" height="50px" />  
 
 
 dtms is `<time>` of CSS parse in to milliseconds for JavaScript.
