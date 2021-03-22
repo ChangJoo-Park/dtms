@@ -3,6 +3,12 @@
 <img src="https://i.imgur.com/tClBlEA.png" height="50px" />  
 
 
+## Install
+
+```
+yarn add dtms # npm install dtms
+```
+
 dtms is `<time>` of CSS parse in to milliseconds for JavaScript.
 
 ```js
