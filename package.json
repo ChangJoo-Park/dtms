@@ -1,7 +1,7 @@
 {
-  "name": "duration-to-number",
+  "name": "dtms",
   "version": "1.0.0",
-  "description": "A template for typescript-based npm packages",
+  "description": "A converter css time to milliseconds",
   "main": "dist/cjs/index.js",
   "module": "dist/es/index.js",
   "unpkg": "dist/iife/index.js",
@@ -29,15 +29,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/changjoo-park/duration-to-number.git"
+    "url": "git+https://github.com/changjoo-park/dtms.git"
   },
   "keywords": [],
   "author": "ChangJoo Park<pcjpcj2@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/changjoo-park/duration-to-number/issues"
+    "url": "https://github.com/changjoo-park/dtms/issues"
   },
-  "homepage": "https://github.com/changjoo-park/duration-to-number#readme",
+  "homepage": "https://github.com/changjoo-park/dtms#readme",
   "devDependencies": {
     "@commitlint/cli": "^12.0.1",
     "@commitlint/config-conventional": "^12.0.1",
