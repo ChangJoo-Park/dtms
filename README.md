@@ -27,6 +27,6 @@ dtms('2m') // Only support ms and s from CSS specification
 
 ## Why only support milliseconds?
 
-CSS `<time>` is only 'ms' and 's'.
+CSS `<time>` should be 'ms' and 's'.
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/time
